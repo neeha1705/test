@@ -698,3 +698,42 @@ docker images
 sudo -
 sudo su-
 sudo su -
+ls
+clear
+git status
+git add .
+git commit -m"all"
+git status
+git pull origin master
+git pull --allow-unrelated-histories origin master
+git clone https://github.com/neeha1705/gittest.git
+git status
+git add .
+ls
+git rm --cached gittest
+git log
+clear
+git remote -v
+ls
+clear
+mkdir learn_git_again
+cd learn_git_again/
+touch thirsd.txt
+touch third.txt
+ls
+rm thirsd.txt 
+ls
+git init
+ls
+ls -a
+git add .
+git commit -m "adding third.txt"
+git log
+clear
+touch fourth.txt
+git add fourth.txt 
+git commit -m "adding fourth.txt"
+rm third.txt 
+git add .
+git commit -m "removing third.txt"
+git log
