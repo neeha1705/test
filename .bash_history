@@ -500,3 +500,201 @@ cd ..
 ls
 cd ..
 ls
+cd git_workspace/
+ls
+git init
+touch test1.txt test2.txt test3.txt
+ls
+git remote add origin https://github.com/neeha1705/new_test.git
+git remote -v
+ls
+git push origin master
+git remote add origin https://github.com/neeha1705/new_test.git
+git add .
+ls
+rm test*
+ls
+cd ..
+ls
+git init
+ls -a
+cd git_workspace/
+ls -a
+git remote add origin https://github.com/neeha1705/new_test.git
+ls -a
+cd ..
+ls
+cd gittest/
+ls
+cat file1.txt 
+cd ..
+cd git_workspace/
+ls
+cd 
+cd git_workspace/gittest/
+ls
+cat file1.txt 
+git pull origin master
+vi file1.txt 
+git push origin master
+git branch
+git add .
+git commit -m "commit 1"
+git push origin master
+ls
+cat file1.txt 
+cd ..
+ls
+cd ..
+ls
+ls -a
+rm .git
+rm -f .git
+rm -r .git
+rm gittest/
+rm -r  gittest/
+cd gittest/
+ls
+cat file2.txt 
+ls -a
+rm -r .git/
+y
+ls
+ls -a
+rm *
+cd ..
+rm -r gittest/
+ls
+rm -rf trail1/
+ls
+cd git_workspace/
+ls
+git init
+git remote add https://github.com/neeha1705/new_test.git
+git remote add origin https://github.com/neeha1705/new_test.git
+git remote set --url origin https://github.com/neeha1705/new_test.git
+git remote set -url
+git remote set-url origin https://github.com/neeha1705/new_test.git
+ls
+git remote add origin https://github.com/neeha1705/new_test.git
+ls
+git pull origin master
+ls
+cd ..
+ls
+git init
+git remote add origin https://github.com/neeha1705/new_test.git
+ls
+git pull origin master
+ls
+clear
+git init
+touch test1.txt test2.txt test3.txt
+ls
+git remote add origin https://github.com/neeha1705/new_test.git
+git remote add origin https://github.com/neeha1705/test.git
+git add .
+git help submodule
+git remote set-url origin https://github.com/neeha1705/test.git
+ls
+git add.
+git add .
+git commit -m "last"
+git push origin master
+ls
+git remote -v
+cd git_workspace/
+ls
+ls -a
+rm -rf .*
+ls -a
+mkdir test
+cd test/
+git init
+ls
+ls -a
+git remote -v
+git remote add origin https://github.com/neeha1705/test.git
+git remote -v
+ls
+touch f1.txt
+touch f2.txt
+touch f3.txt
+ls
+git add .
+git commit "test repo commit1"
+git commit -m "test repo commit1"
+ls
+git push origin master
+git pull origin master
+ls
+git push origin master
+git log
+git pull origin master
+git branch
+git merge origin master
+ls
+git reset --mixed  633b4a12c85bca4a4029097b2948c10e5298e1c9
+git status
+git log
+git reset --soft 633b4a12c85bca4a4029097b2948c10e5298e1c9
+git log
+git status
+git remote -v
+git remote add origin https://github.com/neeha1705/test.git
+git pull origin master
+git push origin master
+git push origin neeha1705
+git push origin test.git
+clear
+git log
+ls
+git restore --file1
+git restore *
+git restore f1.txt 
+git reset hard *
+git reset hard HEAD
+git reset --option target
+clear
+git reset --soft HEAD
+git log
+ls
+git pull origin master
+git pull --allow-unrelated-histories
+git pull --allow-unrelated-histories origin master
+ls
+git add .
+git commit -m "final"
+git push origin master
+ls
+git log
+cd
+locate jdk*
+yum install locate
+sudo yum install locate
+sudo yum install mlocate
+locate jdk*
+find . -name '*jdk*'
+cd /usr/
+ls
+find java
+find * -name java*
+find * -name jdk*
+find * -name java*
+cd
+cat .bashrc 
+$PATH
+java -version
+echo $JAVA_HOME
+$PATH
+$JAVA_HOME
+docker -v
+sudo yum install docker
+docker -v
+clear
+docker images
+docker -v
+docker images
+sudo -
+sudo su-
+sudo su -
