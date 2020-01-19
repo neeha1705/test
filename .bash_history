@@ -698,6 +698,7 @@ docker images
 sudo -
 sudo su-
 sudo su -
+<<<<<<< HEAD
 ls
 clear
 git status
@@ -737,3 +738,124 @@ rm third.txt
 git add .
 git commit -m "removing third.txt"
 git log
+clear
+git config global --list
+git config  --list
+git config --global core.pager 'cat'
+git config  --list
+clear
+ls
+git remote -v
+git push origin master
+git  push --help
+git  pull --help
+clear
+git pull  --allow-unrelated-histories
+git pull --allow-unrelated-histories origin master
+git add .
+cd learn_git_again/
+ls
+git remote add https://github.com/neeha1705/new_test.git
+ls -a
+cd .git/
+ls
+cd ..
+git dd .
+git add .
+git commit -m "finaal"
+git status
+git log
+git push origin master
+git config --list
+git remote -v
+git clone https://github.com/neeha1705/test.git
+git pull origin master
+git push origin master
+git config --get remote.origin.url
+git clone https://github.com/neeha1705/test.git
+git pull origin master
+git log
+git push origin master
+git remote add origin fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+clear
+git remote add https://github.com/neeha1705/test.git
+git remote add origin https://github.com/neeha1705/test.git
+git pull origin master
+git push origin master
+git pull origin master
+git pull --allow-unrelated-histories origin master
+clear
+git status
+git add .
+ls
+cd test/
+ls
+cd ..
+ls
+clear
+git push origin master
+git status
+git add .
+git commit -m "everything done"
+git push origin master
+clear
+git log
+clear
+cd ..
+git branch
+git branch b1
+git branch b2
+git branch
+git checkout b1
+git checkout master
+clear
+git checkout master
+git push origin master
+git pull origin master
+git pull --allow-unrelated-histories origin master
+git add .
+git commit -m "done"
+git pull origin master
+git push origin master
+git pull --allow-unrelated-histories origin master
+vi README.md 
+git pull --allow-unrelated-histories origin master
+git add .
+git commit -m "all"
+git push origin master
+git pull origin master
+clear
+git branch
+git checkout b1
+ls
+git checkout b2
+ls
+cat test1.txt 
+vi test1.txt
+git checkout b1
+vi test1.txt 
+clear
+git checkout b1
+vi test2.txt 
+git add test2.txt 
+git commit -m "test2 conflict b1"
+git checkout b2
+vi test2.txt 
+git merge b1
+git add .
+ls
+git add test2.txt 
+git commit -m "on b2"
+git merge b1
+vi test2.txt 
+git add .
+git commit -m "final commit after conflict resolution"
+git merge b1
+git checkout b1
+git merge b2
+clear
+exit
+
