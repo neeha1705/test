@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1579465382,,"wq"
+|2,0,1579530631,,"wq"
 :q!
 |2,0,1579465342,,"q!"
 
@@ -30,26 +30,42 @@
 |3,1,36,0,1,0,1579465349,"="
 
 # File marks:
-'0  861  0  ~/.bash_history
-|4,48,861,0,1579465382,"~/.bash_history"
-'1  741  0  ~/.bash_history
-|4,49,741,0,1579465342,"~/.bash_history"
+'0  2  4  ~/f1.txt
+|4,48,2,4,1579530631,"~/f1.txt"
+'1  861  0  ~/.bash_history
+|4,49,861,0,1579465382,"~/.bash_history"
 '2  741  0  ~/.bash_history
 |4,50,741,0,1579465342,"~/.bash_history"
-'3  7  0  ~/test2.txt
-|4,51,7,0,1579465254,"~/test2.txt"
+'3  741  0  ~/.bash_history
+|4,51,741,0,1579465342,"~/.bash_history"
+'4  7  0  ~/test2.txt
+|4,52,7,0,1579465254,"~/test2.txt"
 
 # Jumplist (newest first):
+-'  2  4  ~/f1.txt
+|4,39,2,4,1579530631,"~/f1.txt"
+-'  1  0  ~/f1.txt
+|4,39,1,0,1579530625,"~/f1.txt"
+-'  861  0  ~/.bash_history
+|4,39,861,0,1579465382,"~/.bash_history"
 -'  861  0  ~/.bash_history
 |4,39,861,0,1579465382,"~/.bash_history"
 -'  741  0  ~/.bash_history
 |4,39,741,0,1579465344,"~/.bash_history"
+-'  741  0  ~/.bash_history
+|4,39,741,0,1579465344,"~/.bash_history"
+-'  741  0  ~/.bash_history
+|4,39,741,0,1579465342,"~/.bash_history"
 -'  741  0  ~/.bash_history
 |4,39,741,0,1579465342,"~/.bash_history"
 -'  1  0  ~/.bash_history
 |4,39,1,0,1579465281,"~/.bash_history"
 -'  1  0  ~/.bash_history
 |4,39,1,0,1579465281,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1579465281,"~/.bash_history"
+-'  1  0  ~/.bash_history
+|4,39,1,0,1579465281,"~/.bash_history"
 -'  7  0  ~/test2.txt
 |4,39,7,0,1579465254,"~/test2.txt"
 -'  7  0  ~/test2.txt
@@ -58,6 +74,22 @@
 |4,39,7,0,1579465254,"~/test2.txt"
 -'  7  0  ~/test2.txt
 |4,39,7,0,1579465254,"~/test2.txt"
+-'  7  0  ~/test2.txt
+|4,39,7,0,1579465254,"~/test2.txt"
+-'  7  0  ~/test2.txt
+|4,39,7,0,1579465254,"~/test2.txt"
+-'  7  0  ~/test2.txt
+|4,39,7,0,1579465254,"~/test2.txt"
+-'  7  0  ~/test2.txt
+|4,39,7,0,1579465254,"~/test2.txt"
+-'  1  0  ~/test2.txt
+|4,39,1,0,1579465236,"~/test2.txt"
+-'  1  0  ~/test2.txt
+|4,39,1,0,1579465236,"~/test2.txt"
+-'  1  0  ~/test2.txt
+|4,39,1,0,1579465236,"~/test2.txt"
+-'  1  0  ~/test2.txt
+|4,39,1,0,1579465236,"~/test2.txt"
 -'  1  0  ~/test2.txt
 |4,39,1,0,1579465236,"~/test2.txt"
 -'  1  0  ~/test2.txt
@@ -68,6 +100,13 @@
 |4,39,1,0,1579465236,"~/test2.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/f1.txt
+	*	1579530630	0
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
 
 > ~/.bash_history
 	*	1579465381	0
