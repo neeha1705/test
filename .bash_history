@@ -698,7 +698,6 @@ docker images
 sudo -
 sudo su-
 sudo su -
-<<<<<<< HEAD
 ls
 clear
 git status
@@ -858,4 +857,3 @@ git checkout b1
 git merge b2
 clear
 exit
-
